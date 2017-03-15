@@ -21,7 +21,7 @@ public class Questions {
     private String mChoices[][] = {
             {"Skjern", "Gota alv", "Gloma", "La Seine"},
             {"Chrome", "Chrome OS", "Chrobuntu", "Chro home"},
-            {"Barbue caissière au Mcdo", "Bbarbie secrétaire", "Barbie présidente des USA", "Barbie nutritioniste"},
+            {"Barbie caissière au Mcdo", "Barbie secrétaire", "Barbie présidente des USA", "Barbie nutritioniste"},
             {"Jupiter", "Mars","Pluton","Mmercure"},
             {"0", "1", "19", "16"},
             {"11", "13", "10", "9"},
